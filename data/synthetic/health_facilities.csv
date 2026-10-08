@@ -1,0 +1,11 @@
+FOSA_ID,Province,District,FOSA,Reporting,SOH,FU
+F001,Gitega,Gitega,CDS A,Yes,125,1
+F002,Gitega,Gitega,CDS B,No,0,0
+F003,Ngozi,Ngozi,CDS C,Yes,-5,1
+F004,Ngozi,Kiremba,CDS D,Yes,80,1
+F005,Muyinga,Muyinga,CDS E,Yes,0,1
+F006,Muyinga,Muyinga,CDS F,No,,0
+F007,Gitega,Nyabihanga,CDS G,Yes,250,1
+F008,Gitega,Nyabihanga,CDS H,Yes,35,1
+F008,Gitega,Nyabihanga,CDS H,Yes,35,1
+F009,Ngozi,Busiga,CDS I,Yes,120,1
